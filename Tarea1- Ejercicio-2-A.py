@@ -1,5 +1,4 @@
 # Integrantes: Alejandro Narváez. 
-# RUT        : 26.286.781-1
 
 # PREGUNTA 2: Hacemos sistema para elegir destino, luego la cantidad de maletas y por último la muestra gráfica
 
